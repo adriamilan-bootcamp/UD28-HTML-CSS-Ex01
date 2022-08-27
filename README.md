@@ -1,3 +1,3 @@
 # UD28-HTML-CSS-Ex01
 
-![185810872-97bbfbf9-3609-4480-b4ea-aad1f2d6a2f1](https://user-images.githubusercontent.com/108835310/187049088-de8a7009-a469-4345-bcc7-2aa264f6c68d.jpg)
+![170017408-ef3c4401-d646-42b5-944f-5b40d8996bdb](https://user-images.githubusercontent.com/108835310/187049116-2fd85678-8e57-478a-bcf4-326807e26ef3.png)
